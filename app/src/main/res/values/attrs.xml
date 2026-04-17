@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Sunny weather -->
+    <string name="partly_cloudy">partly-cloudy</string>
+    <string name="cloudy">cloudy</string>
+    <string name="overcast">overcast</string>
+    <string name="mist">mist</string>
+    <string name="rainy">rainy</string>
+    <string name="snowy">snowy</string>
+</resources>
